@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋 I'm Satheesh
 
-<!--
-**sathishasmi/sathishasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer passionate about building real-world AI applications.
 
-Here are some ideas to get you started:
+🔹 Skills
+Python | Machine Learning | Scikit-Learn | Pandas | NumPy | Data Visualization | NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Projects
+AI Resume Screening System
+Book Recommendation System
+California Housing Price Prediction
+Heart Disease Prediction
+
+🔹 Currently Learning
+Deep Learning | NLP | MLOps
