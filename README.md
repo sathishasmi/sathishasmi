@@ -1,17 +1,16 @@
-👋 Hi I'm Satheesh
-Machine Learning Engineer from India
+# Hi 👋 I'm Satheesh
 
-🔹 Skills
-Python | Machine Learning | NLP | Deep Learning
+Machine Learning Engineer from India passionate about building real-world AI applications.
 
-🔹 ML Projects
-AI Resume Screening
-Book Recommendation System
-Heart Disease Prediction
-California Housing Price Prediction
+## 🔹 Skills
+Python | Machine Learning | Scikit-Learn | Pandas | NumPy | Data Visualization | NLP
 
-🔹 Tools
-Scikit-learn | Pandas | NumPy | Matplotlib | Streamlit
+## 🔹 Projects
+- AI Resume Screening System
+- Book Recommendation System
+- California Housing Price Prediction
+- Heart Disease Prediction
 
-🔹 Currently Learning
-Deep Learning and MLOps
+## 📚 Currently Learning
+Deep Learning | NLP | MLOps
+
