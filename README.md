@@ -12,5 +12,5 @@ Python | Machine Learning | Scikit-Learn | Pandas | NumPy | Data Visualization |
 - Heart Disease Prediction
 
 ## 📚 Currently Learning
-Deep Learning | NLP | MLOps
+MLOps
 
